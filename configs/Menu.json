@@ -1,0 +1,20 @@
+[
+    {
+        "groupName": "",
+        "listMenu": [
+            {
+                "label": "ขายสินค้า",
+                "to": "/#"
+            }
+        ]
+    },
+    {
+        "groupName": "จัดการสินค้า",
+        "listMenu": [
+            {
+                "label": "รายการสินค้า",
+                "to": "/production"
+            }
+        ]
+    }
+]
